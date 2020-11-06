@@ -1,0 +1,7 @@
+main: tk.toasters.Nations.Main
+name: Nations
+version: 1.0.0
+authors: [Sawix]
+
+commands:
+  Ping:
