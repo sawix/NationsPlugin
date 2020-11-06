@@ -29,7 +29,7 @@ public class Main extends JavaPlugin {
 
                 player.sendMessage("You don't have permission to use this command!");
             } else {
-                sender.sendMessage("pong!");
+                sender.sendMessage("Pong!");
             }
 
             return true;
