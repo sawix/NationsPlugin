@@ -1,0 +1,10 @@
+name: Nations
+main: tk.toasters.nations.Nations
+version: ${project.version}
+api-version: ${project.bukkitAPIVersion}
+author: Sawix
+authors: []
+
+commands:
+  ping:
+    aliases: []
